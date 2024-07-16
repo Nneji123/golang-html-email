@@ -1,4 +1,4 @@
-module github.com/Nneji123/go-test
+module github.com/Nneji123/golang-html-email
 
 go 1.22.5
 
