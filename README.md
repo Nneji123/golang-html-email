@@ -22,6 +22,7 @@ This project is a Go application that sends emails using HTML templates with inh
 
 ```sh
 git clone https://github.com/Nneji123/golang-html-email.git
+git clone https://github.com/MoksDa3rd/golang-html-email.git
 cd golang-html-email
 ```
 
